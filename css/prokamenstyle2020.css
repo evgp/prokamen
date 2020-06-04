@@ -37,7 +37,7 @@ font {
     width: 205px;
     margin: 0 auto;
 }
-#side-right *, .calendar {
+#side-right * {
   font-family: 'PT Sans Narrow', sans-serif!important;
 }
 #side-right strong {
@@ -4628,4 +4628,8 @@ table.gridedTable tbody td.center {
 }
 .boxGameInfo:first-child {
     border-top: none;
+}
+
+.calendar {
+    font-family: 'PT Sans Narrow', sans-serif!important;
 }
