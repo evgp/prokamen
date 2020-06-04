@@ -4630,7 +4630,7 @@ table.gridedTable tbody td.center {
     border-top: none;
 }
 
-.calendar h1 {
+.calendar h1, h2 {
     font-family: 'PT Sans Narrow', sans-serif!important;
-    color:red!important;
+
 }
