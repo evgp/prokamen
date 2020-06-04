@@ -4632,6 +4632,7 @@ table.gridedTable tbody td.center {
 
 .calendar h1 {
     font-family: 'PT Sans Narrow', sans-serif!important;
+    color: #f30!important;
 }
 .calendar .month h2 {
     color: #b9b9b9!important;	
