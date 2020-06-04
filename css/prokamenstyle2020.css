@@ -1349,12 +1349,7 @@ TD.back_forum .white {
     COLOR: #c30;
     TEXT-DECORATION: UNDERLINE;
 }
-.tblTextArea {
-    width: 100%;
-    clear: both;
-    padding-top: 3px;
-    padding-bottom: 4px;
-}
+
 .fanSectionHeader {
     color: #FFFC00;
     font-weight: bold;
