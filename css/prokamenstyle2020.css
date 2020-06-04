@@ -37,7 +37,7 @@ font {
     width: 205px;
     margin: 0 auto;
 }
-#side-right * .calendar {
+#side-right *, .calendar {
   font-family: 'PT Sans Narrow', sans-serif!important;
 }
 #side-right strong {
