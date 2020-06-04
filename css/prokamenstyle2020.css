@@ -4632,3 +4632,15 @@ table.gridedTable tbody td.center {
 .calendar .month h2 {
     color: #b9b9b9!important;	
 }
+.calendar { border: 1px solid; border-radius: 5px; margin: 15px 0; padding: 10px; }
+.calendar h1 { margin-bottom: 30px; }
+.calendar h2 { line-height: 1; margin: 0 0 10px; }
+
+.calendar .month { margin-top: 30px; }
+.calendar table { border-collapse: collapse; }
+.calendar td { padding: 0; min-width: 30px; height: 30px; text-align: center; vertical-align: middle; border: 1px solid; }
+.calendar td:nth-last-child(-n+2) { color: #ff0; }
+.calendar td:empty { border: 0; background: none; }
+
+.calendar img { vertical-align: top; }
+.calendar a:nth-child(n+2) img { border-top: 1px solid; }
