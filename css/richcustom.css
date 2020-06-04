@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic-ext);
+body
+{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    COLOR: #b9b9b9;
+	SCROLLBAR-FACE-COLOR: #0D3B00;
+	SCROLLBAR-HIGHLIGHT-COLOR: #0D3B00;
+	SCROLLBAR-SHADOW-COLOR: #0D3B00;
+	SCROLLBAR-3DLIGHT-COLOR: #0D3B00;
+	SCROLLBAR-ARROW-COLOR: #00FF00;
+	SCROLLBAR-TRACK-COLOR: #010E00;
+	SCROLLBAR-DARKSHADOW-COLOR: #000000;
+	background-color: #343434!important;
+}
+
+A { COLOR: #fff; TEXT-DECORATION: UNDERLINE; }
+A:hover { COLOR: #f78604; TEXT-DECORATION: UNDERLINE; }
+
+P { font-size: 14px; margin:0; }
+
+img
+{
+	max-width: 100%;
+}
+
+TD
+{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 12px;
+}
+
+.quoteLogin
+{
+	margin-top: 4px;	
+	COLOR: #f78604;	
+	font-weight: bold;
+	font-size:14px;
+}
+
+.quoteText
+{
+	margin-bottom: 2px;
+	margin-top: 2px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: #f78604;
+	padding-top: 8px;
+	padding-left:12px;
+	padding-bottom:8px;
+	padding-right:12px; 
+	color: #b9b9b9;
+	background-color : transparent;	
+	font-size:14px;
+}
+
+.quoteSpacer
+{	
+	line-height: 4px;
+	padding: 0;
+	margin: 0;
+}
+
+.quoteText A { color: #f78604; TEXT-DECORATION: UNDERLINE; }
+.quoteText A:hover { COLOR: #f78604; TEXT-DECORATION: UNDERLINE; }
