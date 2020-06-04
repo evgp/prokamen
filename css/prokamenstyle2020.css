@@ -4632,7 +4632,7 @@ table.gridedTable tbody td.center {
 .calendar .month h2 {
     color: #b9b9b9!important;	
 }
-.calendar { border: 1px solid; border-radius: 5px; margin: 15px 0; padding: 10px; }
+.calendar { margin: 15px 0; padding: 10px; }
 .calendar h1 { margin-bottom: 30px; }
 .calendar h2 { line-height: 1; margin: 0 0 10px; }
 
