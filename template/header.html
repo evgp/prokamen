@@ -1,0 +1,146 @@
+<!--header-->
+<p><link href="https://evgp.github.io/prokamen/css/prokamenstyle2020.css" type="text/css" rel="stylesheet" media="screen,projection" /></p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+ var domain = window.location.hostname.split('.').reverse()[2];
+ $.get('//en.creado.me/tools/calendar.php', {domain: domain}, function(data) {
+	$('#DivRightDesign').append(data);
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type0.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type0.png'); 
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type1.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type1.png');
+
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type2.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type2.png');
+
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type3.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type3.png');
+    
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type4.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type4.png');
+    
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type5.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type4.png');
+    
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type6.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type4.png');
+  
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type7.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type7.png');
+    
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type8.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type8.png');
+
+        $('img[src="http://cdn.endata.cx/images/v2/en/engines/types/type9.gif?v1"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/type9.png');
+  
+ }); 
+  
+
+});
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+  $(function(){
+    $('body').prepend('<div id="toTop"></div>');
+  
+    if (window.location.href.indexOf('Guestbook') > 0) {
+      $('td.center-column').addClass('forum');
+      $('td.center-column table:odd').addClass('odd');
+      $('td.center-column table:even').addClass('even');
+    }
+    if (window.location.href.indexOf('Guestbook.aspx') > 0) {
+      $('td.center-column').addClass('forum-root');
+    }
+    $('link[rel="shortcut icon"]').attr('href', 'http://d1.endata.cx/images/personal/48058/kamencx.ico');
+    $('.menuWrap td .menu > li.default a span img').attr('src', 'http://d1.endata.cx/images/personal/48058/go-home.png');
+  
+    $('.enPnl1.clr0, .enPnl1.clr1, .enPnl1.clr2, .enPnl1').attr('style', 'background-color: transparent!important;');
+    if (window.location.href == 'http://kam.en.cx/') {
+      document.title = 'Проект KAMENЬ // Живи игрой! // Encounter - сеть активных гороских игр';
+    }
+    if (window.location.href == 'http://kam.en.cx/UserDetails.aspx') {
+      document.title = 'Проект KAMENЬ // Личное дело';
+    }
+    if (window.location.href == 'http://kam.en.cx/UserBalance.aspx') {
+      document.title = 'Проект KAMENЬ // Мой баланс';
+    }
+    if (window.location.href == 'http://kam.en.cx/Teams/TeamDetails.aspx') {
+      document.title = 'Проект KAMENЬ // Моя команда';
+    }
+    $(window).scroll(function() {
+      if($(this).scrollTop() != 0) {
+        $('#toTop').fadeIn();
+      } 
+      else {
+       $('#toTop').fadeOut();
+      }
+    });
+    $('#toTop').click(function() {
+      $('body,html').animate({scrollTop:0},800);
+    });
+  });
+  
+    function showRichEditor(id) {
+    if (id) {
+      editor.quoteClick('msgText_' + id);
+    }
+    else {
+      editor.LoadWysiwygEditor();
+    }
+    
+    setTimeout(showRichEditorTimeout, 1500)
+    
+    return false;
+  }
+  function showRichEditorTimeout() {
+    $('#wysiwygEditor_enPanel_iframe').show();
+    var head  = $('#wysiwygEditor_enPanel_iframe').contents().find('head');
+    head.append('<link href="https://evgp.github.io/prokamen/css/richcustom.css" rel="stylesheet" type="text/css" />');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/bold.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/bold.png');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/italic.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/italic.png');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/quote.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/quote.png');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/strike.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/strike.png');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/underline.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/underline.png');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/url.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/url.png');
+    $('img[src="http://cdn.endata.cx/data/buttons/rich_editor/image.png"]').attr('src', 'http://d1.endata.cx/images/personal/1522680/image.png');
+  }
+// ]]></script>
+<!-- Скрипт для подмены логотипа НАЧАЛО -->
+<script type="text/javascript">// <![CDATA[
+$('img[src*="/images/logos/en_logo"][src$="s.png"]').eq(0).each(function(el) {
+wa_star = $(this).attr('src').match(/en_logo(\d+)s.png/)[1];
+if (wa_star != null) {
+$('#my_stars').attr('src','http://cdn.endata.cx/data/games/47426/lh'+wa_star+'s.png');
+}
+})
+  
+$('img[src*="/images/logos/en_logo0s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo0s.png');  
+$('img[src*="/images/logos/en_logo1s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo1s.png');  
+$('img[src*="/images/logos/en_logo2s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo2s.png');
+$('img[src*="/images/logos/en_logo3s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo3s.png');
+$('img[src*="/images/logos/en_logo4s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo4s.png');
+$('img[src*="/images/logos/en_logo5s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo5s.png');
+$('img[src*="/images/logos/en_logo6s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo6s.png');
+$('img[src*="/images/logos/en_logo7s.png"]').eq(0).attr('src','http://d1.endata.cx/images/personal/48058/tr_kamenlogo7s.png');
+// ]]></script>
+<!-- Скрипт для подмены логотипа КОНЕЦ -->
+<script type="text/javascript">// <![CDATA[
+  	
+        window.enMenu = new EnMenu();
+        jQuery(function() { 
+  enMenu.init(); });
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+    if (typeof (window.enMenu) == 'undefined') {
+        window.enMenu = new EnMenu();
+        jQuery(function() { enMenu.init(); });
+       }
+// ]]></script>
+<table class="menuWrap" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 50%;" align="center">
+<script type="text/javascript">// <![CDATA[
+	
+    if (typeof (window.enMenu) == 'undefined') {
+        window.enMenu = new EnMenu();
+        jQuery(function() { enMenu.init(); });
+       }
+// ]]></script>
+</td>
+<td style="width: 0%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--header-end-->
