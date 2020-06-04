@@ -4638,7 +4638,7 @@ table.gridedTable tbody td.center {
 
 .calendar .month { margin-top: 30px; }
 .calendar table { border-collapse: collapse; }
-.calendar td { padding: 0; min-width: 30px; height: 30px; text-align: center; vertical-align: middle; border: 1px solid; }
+.calendar td { padding: 0; min-width: 30px; height: 30px; text-align: center; vertical-align: middle; border: 1px solid #f30; }
 .calendar td:nth-last-child(-n+2) { color: #f30; }
 .calendar td:empty { border: 0; background: none; }
 
