@@ -123,7 +123,7 @@ BODY {
     margin: 0;
     padding: 0;
     border: none;
-    background: url('http://d1.endata.cx/images/personal/172108/NEON%20Panorama.png') top right no-repeat #000;
+    background: url('http://d1.endata.cx/images/personal/172108/NEON%20Panorama.png') top left 100% no-repeat #000;
 }
 #site-logo {
     width: 420px;
