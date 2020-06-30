@@ -514,9 +514,9 @@ table.tblUserGames td {
 .divRight {
     margin-left: auto;
 }
-
+/*Правая колонка */
 #DivRightDesign {
-    margin-top: 10%;
+    margin-top: 15%;
 }
 
 .cur_def {
