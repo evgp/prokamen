@@ -124,6 +124,7 @@ BODY {
     padding: 0;
     border: none;
     COLOR: #b9b9b9!important;
+    background: url('http://d1.endata.cx/data/games/69089/NEON_Panorama.png') top right no-repeat #000;
 }
 #site-logo {
     width: 420px;
@@ -162,7 +163,6 @@ table {
     SCROLLBAR-ARROW-COLOR: #0F0;
     SCROLLBAR-TRACK-COLOR: #010E00;
     SCROLLBAR-DARKSHADOW-COLOR: #000;
-    background: url('http://d1.endata.cx/images/personal/172108/NEON%20Panorama.png') top right no-repeat #000;
 	z-index: 1;
 }
 BODY p {
