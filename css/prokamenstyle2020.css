@@ -514,6 +514,11 @@ table.tblUserGames td {
 .divRight {
     margin-left: auto;
 }
+
+#DivRightDesign {
+    margin-top: 10%;
+}
+
 .cur_def {
     cursor: default;
 }
