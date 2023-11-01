@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic-ext);
-@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic-ext);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic-ext);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic-ext);
 #tdLogo {
     display: block;
     box-shadow: inset 0px -20px 20px 2px rgba(0,0,0,0.5);
@@ -124,12 +124,12 @@ BODY {
     padding: 0;
     border: none;
     COLOR: #b9b9b9!important;
-    background: url('http://d1.endata.cx/data/games/69089/NEON_Panorama.png') top right no-repeat #000;
+    background: url('https://d1.endata.cx/data/games/69089/NEON_Panorama.png') top right no-repeat #000;
 }
 #site-logo {
     width: 420px;
     height: 101px;
-	background: url('http://d1.endata.cx/data/games/47426/kamenlogo0s.png') no-repeat;
+	background: url('https://d1.endata.cx/data/games/47426/kamenlogo0s.png') no-repeat;
     display: block;
     float: left;
 	z-index: 1000;
@@ -386,7 +386,7 @@ TR.toWinnerAltItem {
     background-color: #000;
 }
 .bg_space {
-    background-image: url('http://cdn.endata.cx/images/backgrounds/mainframe.gif');
+    background-image: url('https://cdn.endata.cx/images/backgrounds/mainframe.gif');
 }
 .border_dark {
     border: 1px solid #196D00;
@@ -1227,7 +1227,7 @@ blockquote {
 }
 .gallery_prevew_tape {
     height: 19px;
-    background-image: url(http://cdn.endata.cx/images/backgrounds/tape.gif);
+    background-image: url(https://cdn.endata.cx/images/backgrounds/tape.gif);
 }
 .preview {
     border-width: 0;
@@ -1402,29 +1402,29 @@ TD.back_forum .white {
     padding: 10px 14px 14px 14px;
 }
 .greenline {
-    background: #093001 url(http://cdn.endata.cx/images/green_lines.gif) repeat-x;
+    background: #093001 url(https://cdn.endata.cx/images/green_lines.gif) repeat-x;
 }
 .dashedline {
-    background: #093001 url(http://cdn.endata.cx/images/green_lines_gradient.gif) repeat-x;
+    background: #093001 url(https://cdn.endata.cx/images/green_lines_gradient.gif) repeat-x;
 }
 .magenta {
     color: #F06;
 }
 .RArrow {
     padding-left: 16px;
-    background: url("http://cdn.endata.cx/images/icons/dblRArrow.gif") left no-repeat;
+    background: url("https://cdn.endata.cx/images/icons/dblRArrow.gif") left no-repeat;
 }
 .DArrow {
     padding-left: 16px;
-    background: url("http://cdn.endata.cx/images/icons/dblDArrow.gif") left no-repeat;
+    background: url("https://cdn.endata.cx/images/icons/dblDArrow.gif") left no-repeat;
 }
 .RArrowLight {
     padding-left: 16px;
-    background: url("http://cdn.endata.cx/images/icons/dblRArrowLight.gif") left no-repeat;
+    background: url("https://cdn.endata.cx/images/icons/dblRArrowLight.gif") left no-repeat;
 }
 .DArrowLight {
     padding-left: 16px;
-    background: url("http://cdn.endata.cx/images/icons/dblDArrowLight.gif") left no-repeat;
+    background: url("https://cdn.endata.cx/images/icons/dblDArrowLight.gif") left no-repeat;
 }
 .darkgraybg {
     background-color: #151515;
@@ -1478,11 +1478,11 @@ table.tblUserGames {
 }
 .RArrowGeo {
     padding-left: 14px;
-    background: url("http://cdn.endata.cx/images/icons/dblRArrow.gif") left no-repeat;
+    background: url("https://cdn.endata.cx/images/icons/dblRArrow.gif") left no-repeat;
 }
 .DArrowGeo {
     padding-left: 14px;
-    background: url("http://cdn.endata.cx/images/icons/dblDArrow.gif") left no-repeat;
+    background: url("https://cdn.endata.cx/images/icons/dblDArrow.gif") left no-repeat;
 }
 table.geography {
     width: 100%;
@@ -1700,29 +1700,29 @@ div.spacerH20 {
 .pnREg .pnTR,
 .pnREg .pnBL,
 .pnREg .pnBR {
-    background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/g_panel.png");
-    -background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/g_pnl.gif");
+    background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/g_panel.png");
+    -background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/g_pnl.gif");
 }
 .pnREy .pnTL,
 .pnREy .pnTR,
 .pnREy .pnBL,
 .pnREy .pnBR {
-    background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/y_panel.png");
-    -background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/y_pnl.gif");
+    background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/y_panel.png");
+    -background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/y_pnl.gif");
 }
 .pnREo .pnTL,
 .pnREo .pnTR,
 .pnREo .pnBL,
 .pnREo .pnBR {
-    background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/o_panel.png");
-    -background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/o_pnl.gif");
+    background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/o_panel.png");
+    -background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/o_pnl.gif");
 }
 .pnREg2 .pnTL,
 .pnREg2 .pnTR,
 .pnREg2 .pnBL,
 .pnREg2 .pnBR {
-    background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/g2_panel.png");
-    -background-image: url("http://cdn.endata.cx/images/icons/usermenu/panel_corners/g2_pnl.gif");
+    background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/g2_panel.png");
+    -background-image: url("https://cdn.endata.cx/images/icons/usermenu/panel_corners/g2_pnl.gif");
 }
 .pnTL {
     background-position: top left;
@@ -1936,7 +1936,7 @@ DIV.jtDialogBox .MainPanel .ContentArea {
 .ui-state-default,
 .ui-widget-content .ui-state-default {
     border: 1px solid #1b1613;
-    background: #0a0a0a url(http://cdn.endata.cx/images/datepicker/ui-bg_glass_40_0a0a0a_1x400.png) 50% 50% repeat-x;
+    background: #0a0a0a url(https://cdn.endata.cx/images/datepicker/ui-bg_glass_40_0a0a0a_1x400.png) 50% 50% repeat-x;
     font-weight: normal;
     color: #b8ec79;
     outline: none;
@@ -1966,7 +1966,7 @@ DIV.jtDialogBox .MainPanel .ContentArea {
 .ui-state-highlight,
 .ui-widget-content .ui-state-highlight {
     border: 1px solid #0d3b00;
-    background: #f00 url(http://cdn.endata.cx/images/datepicker/ui-bg_glass_55_CC6600_1x400.png) 50% 50% repeat-x;
+    background: #f00 url(https://cdn.endata.cx/images/datepicker/ui-bg_glass_55_CC6600_1x400.png) 50% 50% repeat-x;
     color: #030303;
 }
 .ui-state-highlight a,
@@ -1976,7 +1976,7 @@ DIV.jtDialogBox .MainPanel .ContentArea {
 .ui-state-error,
 .ui-widget-content .ui-state-error {
     border: 1px solid #f1ac88;
-    background: #f6ecd5 url(http://cdn.endata.cx/images/datepicker/ui-bg_gloss-wave_95_f6ecd5_500x100.png) 50% top repeat-x;
+    background: #f6ecd5 url(https://cdn.endata.cx/images/datepicker/ui-bg_gloss-wave_95_f6ecd5_500x100.png) 50% top repeat-x;
     color: #74736d;
 }
 .ui-state-error a,
@@ -2107,14 +2107,14 @@ DIV.jtDialogBox .MainPanel .ContentArea {
 }
 .menu .subArrow,
 .menu .rSubArrow {
-    background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
-    -background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
+    background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
+    -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
 }
 .menu li a,
 .menu li,
 .menu .default span {
-    background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
-    -background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
+    background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
+    -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
     background-repeat: no-repeat;
     background-image: none!important;
 }
@@ -2127,8 +2127,8 @@ DIV.jtDialogBox .MainPanel .ContentArea {
     background-repeat: no-repeat;
 }
 .gameIcon {
-  background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png')!important;
-  -background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png')!important;  
+  background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;
+  -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;  
 }
 .gameLink,
 .gameLink:hover {
@@ -2170,7 +2170,7 @@ DIV.jtDialogBox .MainPanel .ContentArea {
     color: Gray;
 }
 .enterGameBox {
-    background: url(http://cdn.endata.cx/images/enter_brg.gif);
+    background: url(https://cdn.endata.cx/images/enter_brg.gif);
     width: 260px;
     height: 40px;
     text-align: center;
@@ -2180,39 +2180,39 @@ DIV.jtDialogBox .MainPanel .ContentArea {
     background-color: #343434;
 }
 .tdSeparator {
-    background-image: url('http://cdn.endata.cx/images/separator_bg.gif');
+    background-image: url('https://cdn.endata.cx/images/separator_bg.gif');
     height: 1px;
 }
 .errorBgr {
-    background-image: url('http://cdn.endata.cx/images/brg.gif');
+    background-image: url('https://cdn.endata.cx/images/brg.gif');
 }
 .smssend_header {
-    background-image: url('http://cdn.endata.cx/images/backgrounds/smssend_header.gif');
+    background-image: url('https://cdn.endata.cx/images/backgrounds/smssend_header.gif');
     width: 50%;
 }
 BODY.errorTemplate {
     background-color: #000;
     margin-left: 0;
-    background-image: url('http://cdn.endata.cx/images/mainframe_err.gif');
+    background-image: url('https://cdn.endata.cx/images/mainframe_err.gif');
     margin-top: 0;
 }
 .geoLeft {
-    background: url(http://cdn.endata.cx/images/tab/geography/left.gif) no-repeat;
+    background: url(https://cdn.endata.cx/images/tab/geography/left.gif) no-repeat;
     height: 22px;
     overflow: hidden;
 }
 .geoCenter {
-    background: url(http://cdn.endata.cx/images/tab/geography/center.gif) repeat-x;
+    background: url(https://cdn.endata.cx/images/tab/geography/center.gif) repeat-x;
 }
 .geoRight {
-    background: url(http://cdn.endata.cx/images/tab/geography/right.gif) no-repeat top right;
+    background: url(https://cdn.endata.cx/images/tab/geography/right.gif) no-repeat top right;
     width: 10px;
 }
 .geoVertLineL {
-    background: url(http://cdn.endata.cx/images/tab/geography/v_line.gif) repeat-y right;
+    background: url(https://cdn.endata.cx/images/tab/geography/v_line.gif) repeat-y right;
 }
 .geoVertLineR {
-    background: url(http://cdn.endata.cx/images/tab/geography/v_line.gif) repeat-y;
+    background: url(https://cdn.endata.cx/images/tab/geography/v_line.gif) repeat-y;
 }
 .sideBarRight {
     float: right;
@@ -2724,7 +2724,7 @@ a.tabinactive:visited {
     min-width: 600px;
 }
 #forum_adv_search_box h2 {
-    background-image: url('http://cdn.endata.cx/images/backgrounds/forum.gif');
+    background-image: url('https://cdn.endata.cx/images/backgrounds/forum.gif');
     border: 1px solid #1b7600;
     padding: 3px 10px 3px 10px;
     color: #fff;
@@ -2840,7 +2840,7 @@ a.tabinactive:visited {
     position: absolute;
     top: 30px;
     right: 30px;
-    background: url('http://cdn.endata.cx/images/movie/movie-close.gif');
+    background: url('https://cdn.endata.cx/images/movie/movie-close.gif');
     opacity: 0;
     filter: progid: DXImageTransform.Microsoft.Alpha(opacity=0);
     filter: alpha(opacity=0);
@@ -2853,7 +2853,7 @@ a.tabinactive:visited {
     position: absolute;
     top: 30px;
     right: 30px;
-    background: url('http://cdn.endata.cx/images/movie/movie-close.gif');
+    background: url('https://cdn.endata.cx/images/movie/movie-close.gif');
 }
 #viewENmovie #ytplayer {
     display: none;
@@ -2938,7 +2938,7 @@ a.tabinactive:visited {
 .tabNav {
     float: left;
     width: 100%;
-    background: url("http://cdn.endata.cx/images/tab/tabBg.gif") repeat-x bottom;
+    background: url("https://cdn.endata.cx/images/tab/tabBg.gif") repeat-x bottom;
     font-family: 'PT Sans', sans-serif;
     font-size: 14px;
     line-height: normal;
@@ -2958,7 +2958,7 @@ a.tabinactive:visited {
     display: inline;
 }
 .tabNav li div {
-    background: url("http://cdn.endata.cx/images/tab/tabLeft.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/tabLeft.gif") no-repeat left top;
     display: inline-block;
     padding: 0 4px 0 4px;
     height: 22px;
@@ -2978,7 +2978,7 @@ a.tabinactive:visited {
     font-family: 'PT Sans', sans-serif;
 }
 .tabNav a {
-    background: url("http://cdn.endata.cx/images/tab/tabRight.gif") no-repeat right top;
+    background: url("https://cdn.endata.cx/images/tab/tabRight.gif") no-repeat right top;
     display: block;
     padding: 2px 6px 4px 2px;
     text-decoration: none;
@@ -2990,12 +2990,12 @@ a.tabinactive:visited {
     text-decoration: underline;
 }
 .tabNav .current div {
-    background-image: url("http://cdn.endata.cx/images/tab/tabLeft_on.gif");
+    background-image: url("https://cdn.endata.cx/images/tab/tabLeft_on.gif");
     height: 23px;
 }
 .tabNav .current a {
     outline: none;
-    background-image: url("http://cdn.endata.cx/images/tab/tabRight_on.gif");
+    background-image: url("https://cdn.endata.cx/images/tab/tabRight_on.gif");
     color: #92FF83;
     padding: 2px 6px 4px 2px;
     height: 17px;
@@ -3006,7 +3006,7 @@ a.tabinactive:visited {
 }
 .tabNav_bottom {
     float: none;
-    background: #fff url("http://cdn.endata.cx/images/tab/tabBgBot.gif") repeat-x bottom;
+    background: #fff url("https://cdn.endata.cx/images/tab/tabBgBot.gif") repeat-x bottom;
     padding: 5px 5px 6px 5px;
     font-family: 'PT Sans', sans-serif;
     font-size: 14px;
@@ -3278,13 +3278,13 @@ a.tabinactive:visited {
 }
 .tabText li div {
     display: inline-block;
-    background: url("http://cdn.endata.cx/images/tab/tabLeft.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/tabLeft.gif") no-repeat left top;
     padding: 0 0 0 4px;
     height: 18px;
 }
 .tabText a {
     display: block;
-    background: url("http://cdn.endata.cx/images/tab/tabRight.gif") no-repeat right top;
+    background: url("https://cdn.endata.cx/images/tab/tabRight.gif") no-repeat right top;
     padding: 2px 6px 4px 2px;
     text-decoration: none;
     height: 12px;
@@ -3295,11 +3295,11 @@ a.tabinactive:visited {
     text-decoration: underline;
 }
 .tabText .current div {
-    background-image: url("http://cdn.endata.cx/images/tab/tabLeft_on.gif");
+    background-image: url("https://cdn.endata.cx/images/tab/tabLeft_on.gif");
     height: 17px;
 }
 .tabText .current a {
-    background-image: url("http://cdn.endata.cx/images/tab/tabRight_on.gif");
+    background-image: url("https://cdn.endata.cx/images/tab/tabRight_on.gif");
     color: #92FF83;
     padding: 2px 6px 4px 2px;
     height: 12px;
@@ -3313,12 +3313,12 @@ a.tabinactive:visited {
     border-top: 0;
     padding: 20px 20px 0 20px;
     float: left;
-    background: url("http://cdn.endata.cx/images/tab/calendar/tabContent.gif") repeat-x top black;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tabContent.gif") repeat-x top black;
 }
 .tabCal {
     float: left;
     width: 100%;
-    background: url("http://cdn.endata.cx/images/tab/calendar/tabBg.gif") repeat-x bottom;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tabBg.gif") repeat-x bottom;
     font-family: 'PT Sans', sans-serif;
     font-size: 14px;
     line-height: normal;
@@ -3337,7 +3337,7 @@ a.tabinactive:visited {
 }
 .tabCal li div {
     display: inline-block;
-    background: url("http://cdn.endata.cx/images/tab/calendar/tabLeft.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tabLeft.gif") no-repeat left top;
     padding: 0 0 0 6px;
     height: 31px;
     overflow: hidden;
@@ -3357,15 +3357,15 @@ a.tabinactive:visited {
     font-family: 'PT Sans', sans-serif;
 }
 .tabCal .current div {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tabLeft_on.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tabLeft_on.gif") no-repeat left top;
     height: 32px;
 }
 .tabCal .current span {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tabRight_on.gif") no-repeat right top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tabRight_on.gif") no-repeat right top;
     height: 31px;
 }
 .tabCal span {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tabRight.gif") no-repeat right top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tabRight.gif") no-repeat right top;
     padding: 1px 10px 1px 3px;
     height: 31px;
     display: block;
@@ -3397,68 +3397,68 @@ a.tabinactive:visited {
     float: left;
 }
 .tabCal .img0 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp1.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp1.gif") no-repeat left top;
 }
 .tabCal .img5 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp2.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp2.gif") no-repeat left top;
 }
 .tabCal .img3 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp3.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp3.gif") no-repeat left top;
 }
 .tabCal .img2 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp4.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp4.gif") no-repeat left top;
 }
 .tabCal .img4 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp5.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp5.gif") no-repeat left top;
 }
 .tabCal .img1 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp6.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp6.gif") no-repeat left top;
 }
 .tabCal .img9 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp10.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp10.gif") no-repeat left top;
 }
 .tabCal .img7 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp7.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp7.gif") no-repeat left top;
 }
 .tabCal .img6 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp8.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp8.gif") no-repeat left top;
 }
 .tabCal .img8 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/tp9.gif?v1") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/tp9.gif?v1") no-repeat left top;
 }
 .tabCal .none_img {
     background: none;
     padding: 7px 10px 4px 10px;
 }
 .tabCal .current a.img0 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta1.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta1.gif") no-repeat left top;
 }
 .tabCal .current a.img5 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta2.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta2.gif") no-repeat left top;
 }
 .tabCal .current a.img3 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta3.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta3.gif") no-repeat left top;
 }
 .tabCal .current a.img2 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta4.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta4.gif") no-repeat left top;
 }
 .tabCal .current a.img4 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta5.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta5.gif") no-repeat left top;
 }
 .tabCal .current a.img1 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta6.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta6.gif") no-repeat left top;
 }
 .tabCal .current a.img9 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta10.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta10.gif") no-repeat left top;
 }
 .tabCal .current a.img7 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta7.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta7.gif") no-repeat left top;
 }
 .tabCal .current a.img6 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta8.gif") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta8.gif") no-repeat left top;
 }
 .tabCal .current a.img8 {
-    background: url("http://cdn.endata.cx/images/tab/calendar/ta9.gif?v1") no-repeat left top;
+    background: url("https://cdn.endata.cx/images/tab/calendar/ta9.gif?v1") no-repeat left top;
 }
 .ui-dialog {
     background-color: #0D3B00;
@@ -3517,8 +3517,8 @@ a.tabinactive:visited {
     outline: none;
 }
 .ui-dialog .ui-icon-closethick {
-    background-image: url(http://cdn.endata.cx/images/dialogbox/icons/x_close.png);
-    -background-image: url(http://cdn.endata.cx/images/dialogbox/icons/x_close.gif);
+    background-image: url(https://cdn.endata.cx/images/dialogbox/icons/x_close.png);
+    -background-image: url(https://cdn.endata.cx/images/dialogbox/icons/x_close.gif);
 }
 .ui-corner-all {
     -moz-border-radius: 5px;
@@ -3609,8 +3609,8 @@ a.tabinactive:visited {
     height: 42px;
 }
 .menu > li:nth-child(6) .wr {
-    background: url('http://d1.endata.cx/data/games/47426/kamforum.png') 60px center no-repeat;
-    background: url('http://d1.endata.cx/data/games/47426/kamforum.png') 60px center no-repeat;
+    background: url('https://d1.endata.cx/data/games/47426/kamforum.png') 60px center no-repeat;
+    background: url('https://d1.endata.cx/data/games/47426/kamforum.png') 60px center no-repeat;
 }
 .menu .rootBG {
     position: absolute;
@@ -3712,16 +3712,16 @@ a.tabinactive:visited {
 }
 .menu .subArrow,
 .menu .rSubArrow {
-    background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
-    -background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
+    background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
+    -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
 }
 .menu li a,
 .menu li li,
 .menu li li li,
 .menu li,
 .menu .default span {
-    background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
-    -background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png');
+    background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
+    -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png');
     background-repeat: no-repeat;
     background-image: none!important;
     -background-image: none!important;
@@ -3750,8 +3750,8 @@ a.tabinactive:visited {
     text-align: center!important
 }
 .menu .game {
-    background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png')!important;
-    -background-image: url('http://d1.endata.cx/data/games/47426/menu_kamen.png')!important;  
+    background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;
+    -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;  
 }
 .sf-shadow ul.sf-shadow-off {
     background: transparent;
@@ -3893,7 +3893,7 @@ height: 22px!important;
   margin-right: 20px;
 }
 .menu .corporateGame {
-    background-image: url('http://cdn.endata.cx/images/icons/mainmenu/pdf.gif')!important;
+    background-image: url('https://cdn.endata.cx/images/icons/mainmenu/pdf.gif')!important;
     background-position: 10px 50%!important;
     text-indent: 2em;
 }
