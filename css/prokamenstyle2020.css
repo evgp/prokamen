@@ -2127,8 +2127,8 @@ DIV.jtDialogBox .MainPanel .ContentArea {
     background-repeat: no-repeat;
 }
 .gameIcon {
-  background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;
-  -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;  
+/*   background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important; */
+/*   -background-image: url('https://d1.endata.cx/data/games/47426/menu_kamen.png')!important;   */
 }
 .gameLink,
 .gameLink:hover {
